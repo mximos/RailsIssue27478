@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  money: 1
+  project_id: MyString
+  transaction_id: MyString
+
+two:
+  money: 1
+  project_id: MyString
+  transaction_id: MyString
